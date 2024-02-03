@@ -37,6 +37,6 @@
 		"ethers": "^5.7.2",
 		"radicle-drips": "github:radicle-dev/drips-js-sdk",
 		"svelte-json-tree": "^1.0.0",
-		"web3modal": "^1.9.9"
+		"web3modal": "^1.9.12"
 	}
 }
